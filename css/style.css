@@ -110,6 +110,7 @@ select {
 \*-----------------------------------*/
 
 body {
+    background: var(--clr-light-gray);
     font-size: var(--fs-body);
     font-family: var(--ff-primary); 
     color: var(--clr-grayish-blue);
