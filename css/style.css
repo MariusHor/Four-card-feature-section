@@ -181,13 +181,13 @@ body {
 .header__main{
     color: var(--clr-dark-blue);
     font-weight: var(--fw-200);
-    font-size: 1.5rem;
+    font-size: 1.45rem;
     line-height: 1.5;
 }
 
 .header__sub-heading {
     color: var(--clr-dark-blue);
-    font-size: 1.5rem;
+    font-size: 1.45rem;
     margin-bottom: 1rem;
 }
 
@@ -198,8 +198,10 @@ body {
 
 .card {
     border-radius: var(--border-radius);
-    box-shadow: 10px 10px 10px rgb(0, 0, 0, 10%);
+    box-shadow: 0px 15px 20px rgb(7, 15, 114, 13%);
     padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
 }
 
 .card--cyan {
@@ -216,4 +218,22 @@ body {
 
 .card--blue {
     border-top: solid 0.25rem var(--clr-blue);
+}
+
+.card__feature {
+    color: var(--clr-dark-blue);
+    font-size: 1.2rem;
+    margin-bottom: 0.3rem;
+}
+
+.card__info {
+    font-size: 0.8rem;
+    margin-bottom: 1.8rem;
+}
+
+.card__img {
+    max-width: 55px;
+    height: auto;
+    align-self: flex-end;
+    margin-bottom: 0.3rem;
 }
