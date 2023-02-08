@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/four-card-feature-section-with-grid-and-bem-ryt5ieDL9)
-- Live Site URL: (https://mariushor.github.io/Four-card-feature-section/)
+- [Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-with-grid-and-bem-ryt5ieDL9)
+- [Live Site URL](https://mariushor.github.io/Four-card-feature-section/)
 
 ## My process
 
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mariusHor](https://www.frontendmentor.io/profile/MariusHor)
 
